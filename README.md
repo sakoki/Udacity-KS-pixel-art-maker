@@ -1,6 +1,6 @@
 # Udacity-KS-pixel-art-maker
 
-Udacity Front-end Web Developer, Lesson 21: Pixel Art Maker
+Udacity Front-end Web Developer, Google Developer Challenge Scholarship 2018, Lesson 21: Pixel Art Maker
 
 The following code generates a single-page web application that allows users to draw pixel art on a resizeable canvas. 
 The user can choose the following:
