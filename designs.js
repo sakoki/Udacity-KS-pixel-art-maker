@@ -33,6 +33,7 @@ function makeGrid() {
 	};
 };
 
+
 // Call makeGrid() when submit is clicked
 $('input[type="submit"]').on('click', function (event) {
 	event.preventDefault()
